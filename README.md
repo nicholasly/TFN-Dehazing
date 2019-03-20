@@ -1,7 +1,7 @@
 # Learning Transmission Filtering Network for Image-Based PM2.5 Estimation
 This repository is for TFN introduced in the following paper
 
-[Yinghong Liao](https://github.com/nicholasly/), Bin Qiu, Zhuo Su, Ruomei Wang, Xiangjian He, "Learning Transmission Filtering Network for Image-Based PM2.5 Estimation", ICME 2019, [link]().
+[Yinghong Liao](https://github.com/nicholasly/), Bin Qiu, Zhuo Su, Ruomei Wang, Xiangjian He, "Learning Transmission Filtering Network for Image-Based PM2.5 Estimation", ICME 2019 [[link]]().
 
 The code is built on [RESCAN](https://github.com/XiaLiPKU/RESCAN) and [TernausNet](https://github.com/thstkdgus35/EDSR-PyTorch), which is tested on Ubuntu 14.04 environment (Python_3.6, PyTorch_0.4.1, CUDA_8.0.61, cuDNN_5.1) with a NVIDIA GeForce GTX Titan X GPU.
 
@@ -65,7 +65,7 @@ Residual Attention Block (RAB) architecture.
 
 4. The corresponding testing inputs, targets and results can be found in the path <code>./logdir/</code>.
 
-## Real
+## Real 
 ### Test with a single hazy image
 1. Download models for our paper and place them in <code>./models/</code>.
 
