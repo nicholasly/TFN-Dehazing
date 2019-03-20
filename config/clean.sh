@@ -7,4 +7,3 @@ rm -rf ../logdir/train_target/*
 rm -rf ../logdir/train_target/*
 rm -rf ../logdir/train.events
 rm -rf ../logdir/val.events
-rm -rf ../models/*
