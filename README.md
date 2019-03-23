@@ -35,7 +35,7 @@ Residual Attention Block (RAB) architecture.
 
 1. (optional) Download models for our paper and place them in the folder <code>./models/</code>.
 
-    All the trained models can be downloaded from [BaiduYun](https://pan.baidu.com/s/103FS95KjAcufPWrZf1xMNQ), the password is *as75*. Fewer models can be downloaded from [Dropbox](https://www.dropbox.com/sh/09pn9kql7ufwjyw/AAAfLshvg9fmJ_C_DWzJscNUa?dl=0).
+    All the trained models can be downloaded from [BaiduYun](https://pan.baidu.com/s/103FS95KjAcufPWrZf1xMNQ) and [Google Drive](https://drive.google.com/open?id=1EMbHamF-0NPmufmvB8Fp0ascUcaugrEK). The BaiduYun password is *as75*.
 
 2. Cd to <code>./config</code>, run the following scripts to train models. We adopt the initialization (warm-up) in network training, if you would like to train the network at the beginning, we recommend to use the model <code>step_10000</code>'. You can set any parameter in the file <code>./config/settings.py</code>.
 
@@ -51,7 +51,7 @@ Residual Attention Block (RAB) architecture.
 ### Quick start
 1. Download models for our paper and place them in <code>./models/</code>.
 
-    All the trained models can be downloaded from [BaiduYun](https://pan.baidu.com/s/103FS95KjAcufPWrZf1xMNQ), the password is *as75*. Fewer models can be downloaded from [Dropbox](https://www.dropbox.com/sh/09pn9kql7ufwjyw/AAAfLshvg9fmJ_C_DWzJscNUa?dl=0).
+    All the trained models can be downloaded from [BaiduYun](https://pan.baidu.com/s/103FS95KjAcufPWrZf1xMNQ) and [Google Drive](https://drive.google.com/open?id=1EMbHamF-0NPmufmvB8Fp0ascUcaugrEK). The BaiduYun password is *as75*.
 
 2. Place the folders <code>./dataset/OTS_BETA/test/indoor/hazy</code> and <code>./dataset/OTS_BETA/test/indoor/clear</code> in the path <code>./dataset/OTS_BETA/test/hazy</code> and <code>./dataset/OTS_BETA/test/clear</code> if you want to test the testing set Indoor. The similar opearions are conducted if you want to test the testing set Outdoor.
 
@@ -69,7 +69,7 @@ Residual Attention Block (RAB) architecture.
 ### Test with a single hazy image
 1. Download models for our paper and place them in <code>./models/</code>.
 
-    All the trained models can be downloaded from [BaiduYun](https://pan.baidu.com/s/103FS95KjAcufPWrZf1xMNQ), the password is *as75*. Fewer models can be downloaded from [Dropbox](https://www.dropbox.com/sh/09pn9kql7ufwjyw/AAAfLshvg9fmJ_C_DWzJscNUa?dl=0).
+    All the trained models can be downloaded from [BaiduYun](https://pan.baidu.com/s/103FS95KjAcufPWrZf1xMNQ) and [Google Drive](https://drive.google.com/open?id=1EMbHamF-0NPmufmvB8Fp0ascUcaugrEK). The BaiduYun password is *as75*.
 
 2. Choose a real hazy image from the folder <code>./dataset/OTS_BETA/real/</code>.
 
