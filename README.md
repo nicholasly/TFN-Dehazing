@@ -29,7 +29,7 @@ Residual Attention Block (RAB) architecture.
 
 1. Download RESIDE training data from [RESIDE-Standard](https://sites.google.com/view/reside-dehaze-datasets/reside-standard?authuser=0) and [RESIDE-β](https://sites.google.com/view/reside-dehaze-datasets/reside-%CE%B2).
 
-2. Plaze the hazy images in the folder <code>./dataset/OTS_BETA/train/hazy/</code> and the haze-free images in the folder <code>./dataset/OTS_BETA/train/clear/</code>. Besides, a validation set <code>./dataset/OTS_BETA/val/</code> is neeed, where the folders <code>clear</code> and <code>hazy</code> are included. You can place some images you select for the validation.
+2. Plaze the hazy images in the folder <code>./dataset/OTS_BETA/train/hazy/</code> and the haze-free images in the folder <code>./dataset/OTS_BETA/train/clear/</code>. Besides, a validation set <code>./dataset/OTS_BETA/val/</code> is needed, where the folders <code>clear</code> and <code>hazy</code> are included. You can place some images you select for the validation.
 
 ### Begin to train
 
